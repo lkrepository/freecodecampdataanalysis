@@ -1,0 +1,24 @@
+2025-05-03 22:50:51.211 [info] 
+
+
+
+
+2025-05-03 22:50:51.234 [info] Extension host agent started.
+2025-05-03 22:50:51.247 [info] Started initializing default profile extensions in extensions installation folder. file:///workspace/.vscode-remote/extensions
+2025-05-03 22:50:51.389 [info] Completed initializing default profile extensions in extensions installation folder. file:///workspace/.vscode-remote/extensions
+2025-05-03 22:50:51.408 [info] Extension 'gitpod.gitpod-theme' v0.0.2 is already installed. Use '--force' option to update to latest version or provide '@<version>' to install a specific version, for example: 'gitpod.gitpod-theme@1.2.3'.
+2025-05-03 22:50:52.588 [info] Installing builtin extension 'github.vscode-pull-request-github'...
+2025-05-03 22:50:52.608 [info] Getting Manifest... github.vscode-pull-request-github
+2025-05-03 22:50:52.916 [info] Installing extension: github.vscode-pull-request-github {"isMachineScoped":true,"installPreReleaseVersion":false,"isBuiltin":true,"installGivenVersion":false,"isApplicationScoped":true,"profileLocation":{"$mid":1,"fsPath":"/workspace/.vscode-remote/extensions/extensions.json","external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.98.2","date":"2025-04-13T17:40:40.527Z"}}
+2025-05-03 22:50:54.362 [error] Could not load vsce-sign module Cannot find package 'node-ovsx-sign' imported from /ide/out/server-main.js
+2025-05-03 22:50:54.363 [info] Extension signature verification is not done: github.vscode-pull-request-github
+2025-05-03 22:50:54.444 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/github.vscode-pull-request-github-0.108.0-universal: github.vscode-pull-request-github
+2025-05-03 22:50:54.450 [info] Renamed to /workspace/.vscode-remote/extensions/github.vscode-pull-request-github-0.108.0-universal
+2025-05-03 22:50:54.467 [info] Extension installed successfully: github.vscode-pull-request-github file:///workspace/.vscode-remote/extensions/extensions.json
+2025-05-03 22:50:54.468 [info] Extension 'github.vscode-pull-request-github' v0.108.0 was successfully installed.
+2025-05-03 22:50:54.470 [info] Installing extensions...
+2025-05-03 22:50:54.495 [info] Installing extension: freecodecamp.freecodecamp-dark-vscode-theme {"isMachineScoped":true,"installPreReleaseVersion":false,"isApplicationScoped":true,"installGivenVersion":true,"profileLocation":{"$mid":1,"fsPath":"/workspace/.vscode-remote/extensions/extensions.json","external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.98.2","date":"2025-04-13T17:40:40.527Z"}}
+2025-05-03 22:50:54.534 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/freecodecamp.freecodecamp-dark-vscode-theme-1.0.0: freecodecamp.freecodecamp-dark-vscode-theme
+2025-05-03 22:50:54.537 [info] Renamed to /workspace/.vscode-remote/extensions/freecodecamp.freecodecamp-dark-vscode-theme-1.0.0
+2025-05-03 22:50:54.545 [info] Extension installed successfully: freecodecamp.freecodecamp-dark-vscode-theme file:///workspace/.vscode-remote/extensions/extensions.json
+2025-05-03 22:50:54.547 [info] Extension '0fe3bf37-1c87-44cb-b6ce-8064ccea1a3f' was successfully installed.
